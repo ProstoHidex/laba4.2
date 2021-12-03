@@ -10,3 +10,4 @@ C:\GIT\Laba4.1\Laba4.1\obj\Debug\netcoreapp3.1\Laba4.1.csproj.CoreCompileInputs.
 C:\GIT\Laba4.1\Laba4.1\obj\Debug\netcoreapp3.1\Laba4.1.dll
 C:\GIT\Laba4.1\Laba4.1\obj\Debug\netcoreapp3.1\Laba4.1.pdb
 C:\GIT\Laba4.1\Laba4.1\obj\Debug\netcoreapp3.1\Laba4.1.genruntimeconfig.cache
+C:\GIT\Laba4.1\Laba4.1\obj\Debug\netcoreapp3.1\Laba4.1.csprojAssemblyReference.cache
