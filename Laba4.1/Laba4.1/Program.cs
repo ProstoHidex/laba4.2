@@ -62,13 +62,22 @@ namespace Laba4._1
 
 
             }
-            static void Plus(double a, double b) => Console.WriteLine(a + b);
-
-            static void Minus(double a, double b) => Console.WriteLine(a - b);
-
-            static void Mult(double a, double b) => Console.WriteLine(a * b);
-
-            static void Del(double a, double b) => Console.WriteLine(a / b);
+            static void Plus(double a, double b)
+            {
+                Console.WriteLine(a + b);
+            }
+            static void Minus(double a, double b)
+            {
+                Console.WriteLine(a - b);
+            }
+            static void Mult(double a, double b)
+            {
+                Console.WriteLine(a * b);
+            }
+            static void Del(double a, double b)
+            {
+                Console.WriteLine(a / b);
+            }
         }
     }
 }
